@@ -1,0 +1,11 @@
+App Name: NameArt PartyRock
+Description: ¡Dale vida a tu nombre en la fiesta con NameArt PartyRock! En esta app, los usuarios pueden introducir su nombre y, en segundos, verán cómo se transforma en una obra de arte digital. La app generará una imagen vibrante y personalizada que combina estilos de texto dinámicos, colores festivos y efectos visuales animados que reflejan la energía de la fiesta. Esta imagen, que lleva el nombre del usuario, se puede descargar y compartir en redes sociales.
+
+Key Features:
+
+Name Input: Los usuarios ingresan su nombre en un campo de texto.
+Dynamic Image Generation: Se genera automáticamente una imagen artística que presenta el nombre del usuario con fuentes dinámicas y colores festivos.
+Visual Effects: La imagen incluirá elementos visuales animados como destellos, confeti, y patrones de fondo que complementan el estilo del nombre.
+Customization Options: Los usuarios pueden elegir entre diferentes estilos de fuentes y paletas de colores antes de generar su imagen.
+Social Sharing: La imagen generada se puede descargar y compartir fácilmente en redes sociales para mostrar el estilo único del nombre del usuario.
+Prompt de activación: "Ingresa tu nombre y observa cómo se convierte en arte."

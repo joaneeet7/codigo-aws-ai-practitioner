@@ -1,0 +1,20 @@
+Versión español:
+
+<speak>
+    Hola, soy Joan.
+    <break time="1500ms"/>
+    Estoy aquí para ayudarte con Amazon Web Services.
+    <break time="800ms"/> 
+    ¡Pruébalo y verás lo fácil que es!
+</speak>
+
+
+Versión inglés:
+
+<speak>
+    Hi, I’m Joan.
+    <break time="1500ms"/>
+    I’m here to help you with Amazon Web Services.
+    <break time="800ms"/> 
+    Try it out and see how easy it is!
+</speak>
